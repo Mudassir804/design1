@@ -1,0 +1,213 @@
+body{
+    background-image: url(assets/Cricket-baneer.jpg);
+  background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+   
+}
+
+.ruf{
+    font-size: 2rem;
+    color: #FAFAFA;
+    margin-left: 1px;
+    margin-top: 0.5rem;
+}
+.ruff{
+    font-size: 2rem;
+    color: #FAFAFA;
+    margin-left: 2.5rem;
+    margin-top: -2rem;
+}
+.ruffa{
+    font-size: 2rem;
+    color: #FAFAFA;
+    margin-left: 0.5rem;
+    margin-left: 5rem;
+    margin-top: -2rem;
+}
+.sha{
+    font-size: 2rem;
+    color: #FAFAFA;
+    margin-left: 8rem;
+    margin-top: -2rem;
+}
+.shah{
+
+    font-size: 1.3rem;
+    color: #FAFAFA;
+    margin-left: 10.5rem;
+    margin-top: -1.7rem;
+    
+    
+}
+
+
+.shahe {
+    font-size: 2rem;
+    color: #FAFAFA;
+    margin-top: -3.5rem;
+    margin-left: 19rem;
+}
+.shahee {
+    font-size: 1.5rem;
+    color: #FAFAFA;
+    margin-top: -3rem;
+    margin-left: 21.5rem;
+}
+.shaheen{
+    font-size: 2rem;
+    color: #FAFAFA;
+    margin-top: -4rem;
+    margin-left: 60rem;
+}
+.nas{
+    font-size: 1.5rem;
+    color: #FAFAFA;
+    margin-top: -3.5rem;
+    margin-left: 62rem;
+   
+}
+.nase{
+    font-size: 2rem;
+    color: #FAFAFA;
+    margin-top: -3.8rem;
+    margin-left: 72rem;
+}
+.nasem{
+    font-size: 1.5rem;
+    color: #FAFAFA;
+    margin-top: -3.3rem;
+    margin-left: 74rem;
+}
+.Gym{
+    position: absolute;
+    margin-top: 5em;
+    display: inline-block;
+    margin-left: 1em;
+    justify-content: space-evenly;
+    color: #FAFAFA;
+    text-transform: uppercase;}
+
+    .Babar{
+        position: absolute;
+        margin-top: 4.8em;
+        display: inline-block;
+        margin-left: 4em;
+        justify-content: space-evenly;
+        background-color: none;
+        color: #FAFAFA;
+        text-transform: uppercase;
+                    
+ }
+ .saim{
+    position: absolute;
+margin-top: 4.8em;
+display: inline-block;
+margin-left: 9em;
+justify-content: space-evenly;
+background-color: none;
+color: #FAFAFA;
+text-transform: uppercase;
+            
+}
+.azam{
+    position: absolute;
+margin-top: 4.8em;
+display: inline-block;
+margin-left: 15em;
+justify-content: space-evenly;
+background-color: none;
+color: #FAFAFA;
+text-transform: uppercase;
+            
+}
+.khan{
+    position: absolute;
+margin-top: 4.8em;
+display: inline-block;
+margin-left: 21em;
+justify-content: space-evenly;
+background-color: none;
+color: #FAFAFA;
+text-transform: uppercase;
+            
+}
+.Bat{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    margin-top: 3em;
+    display: inline-block;
+    margin-left: 28em;
+    text-transform: uppercase;
+        
+    
+    }
+    .Ball{
+        position: absolute;
+        margin-top: 4.8em;
+        display: inline-block;
+        margin-left: 60em;
+        justify-content: space-evenly;
+        background-color: none;
+        color: #FAFAFA; 
+        text-transform: uppercase;
+        
+    }
+    .pad{
+        position: absolute;
+        margin-top: 4.8em;
+        display: inline-block;
+        margin-left: 66em;
+        justify-content: space-evenly;
+        background-color: none;
+        color: #FAFAFA;
+        text-transform: uppercase;
+        
+    }
+    .glabs{
+        position: absolute;
+        margin-top: 4.8em;
+        display: inline-block;
+        margin-left: 76em;
+        justify-content: space-evenly;
+        background-color: none;
+        color: #FAFAFA;
+        text-transform: uppercase;
+        
+    }
+    .pro{
+        position: absolute;
+        margin-top: 24em;
+        display: inline-block;
+        margin-left: 7em;
+        justify-content: space-evenly;
+        background-color: none;
+        color: #FAFAFA;
+        text-transform: capitalize;
+        
+    }
+    .prof{
+        position: absolute;
+        margin-top: 16em;
+        display: inline-block;
+        margin-left: 2.5em;
+        justify-content: space-evenly;
+        background-color: none;
+        color: hwb(0 95% 4%);
+        text-transform: uppercase;
+        font-size: 26px;
+    }
+    .rizwan {
+        display: flex;
+        justify-content: center; 
+        align-items: center; 
+        position: absolute; 
+        margin-top: 25.5em; 
+        text-transform: uppercase;
+        margin-left: 8em;
+        border-radius: 10px;
+        background-color: red;
+        color: #FAFAFA;}
+        
